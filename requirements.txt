@@ -4,4 +4,6 @@ seaborn
 matplotlib
 scikit-learn
 scipy
--e .
+catboost
+xgboost
+##-e .
